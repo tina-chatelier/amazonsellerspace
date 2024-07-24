@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Marketing Agency</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Amazon Marketing Agency</h1>
+            <p>Your Partner for Amazon Success</p>
+        </div>
+    </header>
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <section id="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service">
+                <h3>Product Listing Optimization</h3>
+                <p>Improve your product visibility and increase sales with our expert listing optimization.</p>
+            </div>
+            <div class="service">
+                <h3>Advertising Campaigns</h3>
+                <p>Effective Amazon advertising campaigns tailored to your needs.</p>
+            </div>
+            <div class="service">
+                <h3>Brand Management</h3>
+                <p>Build and protect your brand on Amazon with our comprehensive brand management services.</p>
+            </div>
+        </div>
+    </section>
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>We are a dedicated team of Amazon marketing experts with years of experience in helping sellers achieve success on the platform.</p>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="mailto:amazonmarketingsellersspace@gmail.com">amazonmarketingsellersspace@gmail.com</a></p>
+            <p>Phone: 007667888</p>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Amazon Marketing Agency. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
