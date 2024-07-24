@@ -1,4 +1,3 @@
-# amazonsellerspace
 # AmazonSellerSpace
 
 ## Introduction
@@ -15,6 +14,10 @@ Meet our dedicated team:
 - **Rafiyudheen**: SEO Specialist
 - **Sazzad**: Product Listing Expert
 - **Christina**: Ad Campaign Manager
+- git add index.html styles.css
+git commit -m "Add dark blue and black color scheme with white text"
+git push origin main
+
 
 ## Contact
 We'd love to hear from you! Reach out to us at:
@@ -22,9 +25,4 @@ We'd love to hear from you! Reach out to us at:
 - **Email**: amazonsellerspace@gmail.com
 - **Location**: Paris, France
 
-## Installation
-If you use our tools or templates, follow these steps to install them:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tina-chatelier/amazonsellerspace.git
